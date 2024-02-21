@@ -33,3 +33,4 @@ Note that the jdm.properties file gets updated when the program is executed, and
 
 Note that the locationDir property in jdm.properties is used to point to the location for the benchmark data files produced during execution. It gets set to the users home directory if not set already. If it is set and its wrong, execution of a benchmark will fail.
 
+# myBadBM
